@@ -13,6 +13,8 @@ Welcome to the most advanced **arsenal script roblox** repository that transform
 
 </div> 
 
+<img width="1280" height="720" alt="Arsenal Script - AimBot, Auto Farm, ESP " src="https://github.com/user-attachments/assets/6bfc83d1-19f1-4e03-83fa-62041a101286" />
+
 Our arsenal scriptblox package includes game-changing features like professional-grade aimbot with customizable smoothing, intelligent auto farm systems that accelerate progression, ESP overlays showing enemy positions and health, and the arsenal script auto kill functionality that guarantees eliminations. The thunder client roblox arsenal script integration provides enhanced performance and stability for competitive environments.
 
 Compatible with ScriptBlox, RScripts, and all major executors, this arsenal script scriptblox transforms Arsenal from a skill-intensive grind into an enjoyable domination experience. The arsenal script auto farm operates continuously in the background, accumulating kills and progressing through weapons while you focus on movement and positioning strategy.
